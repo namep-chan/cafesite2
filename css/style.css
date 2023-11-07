@@ -383,7 +383,12 @@ iframe{
         align-items: center;
     }
 
+
     /*news*/
+    .ad{
+         display: none;
+    }
+
     .news-contents{
         flex-direction: column;
     }
@@ -441,6 +446,8 @@ iframe{
     .big-box img{
         height: auto;
     }
+
+
 
     /*contact*/
     #contact .page-title{
